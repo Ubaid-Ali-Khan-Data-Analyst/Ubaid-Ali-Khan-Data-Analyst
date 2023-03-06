@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋Hi, I'm Ubaid Ali Khan
+
+• I'm a Data Analyst and continue learning.<br/> 
+• I'm a fan of creating visuals to make Data-Driven Decisions.<br/>
+• You can view more about me here: https://ubaidalikhan.carrd.co/ <br/>
+• I'm also a Mathematician, a teacher and sometimes a footballer too.<br/>
 
 <!--
 **Ubaid-Ali-Khan-Data-Analyst/Ubaid-Ali-Khan-Data-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
